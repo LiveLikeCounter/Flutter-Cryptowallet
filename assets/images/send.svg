@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="-0.054" y2="1.609" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2e7fc5"/>
+      <stop offset="1" stop-color="#174063"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_34" data-name="Group 34" transform="translate(-28 -370)">
+    <g id="Send" transform="translate(0 -13)">
+      <rect id="Rectangle_38" data-name="Rectangle 38" width="30" height="30" rx="5" transform="translate(28 383)" fill="url(#linear-gradient)"/>
+      <g id="arrow-angle-pointing-down" transform="translate(104.544 406.842) rotate(180)">
+        <path id="Path_2191" data-name="Path 2191" d="M67.453,11.823a.765.765,0,0,0-.735-.469H64.285V.418a.4.4,0,0,0-.12-.3A.39.39,0,0,0,63.88,0H54.959a.383.383,0,0,0-.368.241.365.365,0,0,0,.051.431L56.669,3.1a.437.437,0,0,0,.317.139h4.055v8.11H58.608a.765.765,0,0,0-.735.469.773.773,0,0,0,.114.874l4.055,4.866a.83.83,0,0,0,1.242,0L67.339,12.7A.749.749,0,0,0,67.453,11.823Z" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
